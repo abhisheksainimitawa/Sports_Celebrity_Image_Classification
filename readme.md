@@ -24,5 +24,5 @@ Technologies used in this project,
 7. HTML/CSS/Javascript for UI
 
 
-Here is the video playlist for entire project: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
-# Sports_Celebrity_Image_Classification
+
+
